@@ -1,0 +1,11 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    background-color: rgb(49, 49, 49);
+    height: 100vh;
+    display: flex;
+}
